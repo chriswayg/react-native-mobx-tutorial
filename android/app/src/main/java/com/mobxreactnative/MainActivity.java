@@ -1,4 +1,4 @@
-package com.react_native_2021;
+package com.mobxreactnative;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "React_Native_2021";
+    return "MobxReactNative";
   }
 }
